@@ -14,5 +14,11 @@ You can use below command to compile the source in both Ubuntu and Windows envir
 
 to run the executable
 
-in Ubuntu  - ``./dLinkedList.exe`` then Enter
-in Windows - ``dLinkedList.exe`` then Enter
+In Ubuntu  - ``./dLinkedList.exe`` then Enter
+
+In Windows - ``dLinkedList.exe`` then Enter
+
+
+                      |DoublyLinkedLists.cpp Program Execution                                                      |
+                      |:-------------------------------------------------------------------------------------------:|
+                      |![](https://github.com/UdaraAbeyrathna/Doubly-Linked-List/blob/master/DoublyLinkedList.gif)  |
