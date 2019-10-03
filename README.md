@@ -19,6 +19,6 @@ In Ubuntu  - ``./dLinkedList.exe`` then Enter
 In Windows - ``dLinkedList.exe`` then Enter
 
 
-                      |DoublyLinkedLists.cpp Program Execution                                                      |
-                      |:-------------------------------------------------------------------------------------------:|
-                      |![](https://github.com/UdaraAbeyrathna/Doubly-Linked-List/blob/master/DoublyLinkedList.gif)  |
+|DoublyLinkedLists.cpp Program Execution                                                      |
+|:-------------------------------------------------------------------------------------------:|
+|![](https://github.com/UdaraAbeyrathna/Doubly-Linked-List/blob/master/DoublyLinkedList.gif)  |
